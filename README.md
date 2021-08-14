@@ -1,0 +1,1 @@
+This is Shiroi Negai's first git project!
